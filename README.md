@@ -25,4 +25,3 @@
 
 **Screen Recording:**
 - Use any screen recording tool (e.g., OBS Studio, Xbox Game Bar on Windows) to record the form and script in action.
-- Upload all files and the video to your GitHub repository.
