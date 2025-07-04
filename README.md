@@ -23,5 +23,3 @@
 
 ---
 
-**Screen Recording:**
-- Use any screen recording tool (e.g., OBS Studio, Xbox Game Bar on Windows) to record the form and script in action.
